@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/knowledge-base)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/knowledge-base)
+
 # 📚 My Knowledge Base
 
 Welcome to my personal notes repository.
