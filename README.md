@@ -1,6 +1,6 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/knowledge-base)
+![GitHub last commit](https://img.shields.io/github/last-commit/MiladM0/My-Notes)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/knowledge-base)
+![GitHub repo size](https://img.shields.io/github/repo-size/MiladM0/My-Notes)
 
 # 📚 My Knowledge Base
 
