@@ -9,7 +9,7 @@ Welcome to my personal notes repository.
 - AI
 - Web Development
 - Cyber Security
-- [Linux] (Linux/LinuxEssentials.md)
+- [Linux](Linux/LinuxEssentials.md)
 
 ## Progress
 
