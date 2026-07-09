@@ -15,5 +15,5 @@ Welcome to my personal notes repository.
 
 ## Progress
 
-- [ ] SQL
-      
+- [x] SQL
+- [ ] LinuxEssentials
